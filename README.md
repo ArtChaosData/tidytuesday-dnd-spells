@@ -1,5 +1,6 @@
 # tidytuesday-dnd-spells
-A mini-project for automated rendering of multiple svg spells of each magic class in DnD, divided into spell levels and magic schools.
+A mini-project for automated rendering of multiple svg spells of each magic class in DnD, divided into spell levels and magic schools. 
+For the #TidyTuesday challenge.
 
 This is a small project, an infographic poster that shows the distribution of spells and cantrips by school of magic and class in DnD.
 
@@ -30,6 +31,7 @@ Honestly, this sounds a lot like programming on Turtle. Or typewriter work =)
 ***
 
 Это маленький проект, инфографического плаката, который показывает распределение заклинаний и кантрипс по школам магии и классам в ДнД.
+Для челленджа #TidyTuesday
 
 С точки зрения аналитики — здесь практически нет ценности, хотя интересные детали увидеть можно. Хотя, конечно, я понимаю, что для аналитики там есть простор, как минимум, можно было бы проанализировать рост урона, количества и типа дайсов, вывести наборы самых атакующих заклинаний и т.д.
 
